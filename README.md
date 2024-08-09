@@ -7,7 +7,10 @@
   1. HTML5
   2. CSS3
   3. SASS
-  4. Client side Javascript   
+  4. Client side Javascript
+  5. PHP
+  6. python
+  7. JAVA 
 
 ## Technologies and Techniques
   1. Chrome Dev Tools
