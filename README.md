@@ -1,6 +1,6 @@
 ![Garo King]()
 
-🟡We are Garo King Zoomer<br>🟢We are computer science students<br>🔴We write technical and educational articles<br>🔘I know search engine optimization
+🟡We are Garo King Zoomer<br>🟢We are computer science students<br>🔴We write technical and educational articles<br>🔘We know search engine optimization
 
 # Information regarding this project repository
 
