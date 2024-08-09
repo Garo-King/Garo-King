@@ -1,4 +1,4 @@
-![Garo King](https://raw.githubusercontent.com/Sigmakib2/Sigmakib2/main/SIGMAKIB%20GitHub.png)
+![Garo King]()
 
 🟡We are Garo King Zoomer<br>🟢We are computer science students<br>🔴We write technical and educational articles<br>🔘I know search engine optimization
 
