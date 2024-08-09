@@ -1,3 +1,7 @@
+![Garo King](https://raw.githubusercontent.com/Sigmakib2/Sigmakib2/main/SIGMAKIB%20GitHub.png)
+
+🟡We are Garo King Zoomer<br>🟢We are computer science students<br>🔴We write technical and educational articles<br>🔘I know search engine optimization
+
 # Information regarding this project repository
 
 ## Goals
@@ -37,3 +41,6 @@
   **NOTE:** _The Front End Web Development Techdegree is meant to train you in HTML, CSS and JavaScript, and let you practice and show your mastery of these fundamental building blocks of the web. Because of that, please avoid using frameworks like Bootstrap, Foundation, Skeleton, and so on for this project. Even though you may end up using frameworks like these professionally, you still need to know and be able to implement designs with your own knowledge of HTML, CSS and JavaScript._
 
   _In addition, please avoid submitting any projects that rely on a server-side technology like PHP or Ruby on Rails._
+
+  ## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100071625549369&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fix_coding)
