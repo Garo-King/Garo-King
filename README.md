@@ -1,6 +1,6 @@
 ![Garo King]()
 
-🟡We are Garo King Zoomer<br>🟢We are computer science students<br>🔴We write technical and educational articles<br>🔘We know search engine optimization
+🟡I am Garo King Zoomer<br>🟢I am computer science students<br>🔴i write technical and educational articles<br>🔘I Cyber-Security Expert
 
 # Information regarding this project repository
 
@@ -13,8 +13,9 @@
   3. SASS
   4. Client side Javascript
   5. PHP
-  6. python
-  7. JAVA 
+  6. C++
+  7. python
+  8. JAVA 
 
 ## Technologies and Techniques
   1. Chrome Dev Tools
